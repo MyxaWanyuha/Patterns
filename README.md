@@ -1,0 +1,1 @@
+To generate files for VS run Win-GenerateProjects.bat
